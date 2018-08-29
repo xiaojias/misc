@@ -1,4 +1,4 @@
-Translate gnots to .xml files
+Translate gnotes to .xml files
 =========
 Tested and worked in RHEL7 desktop client (source codes are download from [github of: whyoh](https://github.com/whyoh)
 
